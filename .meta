@@ -4,6 +4,8 @@
     "api": "git@github.com:germainlefebvre4/cryptobot-api.git",
     "controller": "git@github.com:germainlefebvre4/cryptobot-controller.git",
     "operator": "git@github.com:germainlefebvre4/cryptobot-operator.git",
-    "charts": "git@github.com:germainlefebvre4/cryptobot-charts.git"
+    "margin": "git@github.com:germainlefebvre4/cryptobot-margin.git",
+    "charts": "git@github.com:germainlefebvre4/cryptobot-charts.git",
+    "eks": "git@github.com:germainlefebvre4/cryptobot-eks.git"
   }
 }
