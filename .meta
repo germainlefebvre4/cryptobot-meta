@@ -1,5 +1,6 @@
 {
   "projects": {
+    "project": "git@github.com:germainlefebvre4/cryptobot-project.git",
     "front": "git@github.com:germainlefebvre4/cryptobot-front.git",
     "api": "git@github.com:germainlefebvre4/cryptobot-api.git",
     "controller": "git@github.com:germainlefebvre4/cryptobot-controller.git",
